@@ -6,7 +6,7 @@ I used Python in Visual Studio Code to help me write this, in addition to a Tens
 ## Table of Contents
 - [Dataset](dataset)
 - [Dependencies](dependencies)
-- [Explanation]
+- Explanation
     - [Part 1](Music-RNN-Explained-1.pdf)
     - [Part 2](Music-RNN-Explained-2.pdf)
 - [Project Structure](project-structure)
