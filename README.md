@@ -6,6 +6,6 @@ I used Python in Visual Studio Code to help me write this, in addition to a Tens
 ## Table of Contents
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
-- [Explanation](#Music-RNN-Explained-1.pdf)
+- [Explanation](#https://github.com/k-anisha/projects/blob/main/Music%20RNN%20Explained%201.pdf)
 - [Project Structure](#project-structure)
 - [License](#LICENSE)
