@@ -1,6 +1,9 @@
 ## Output
 
 In the code I only ran 5 epochs, which though power and time efficient, produced music that didn't sound very cohesive. Below is a link to a video of the music. 
-[5 epochs](https://youtu.be/5UR33-P-iVk)
 
-[125 epochs](https://youtu.be/YA2g9GBsj3I)
+https://youtu.be/5UR33-P-iVk
+
+And here is a version with 125 epochs, which though not perfect, sounds much better!
+
+https://youtu.be/YA2g9GBsj3I
