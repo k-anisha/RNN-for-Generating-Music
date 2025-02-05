@@ -1,4 +1,11 @@
-# Projects
-A collection of the projects I've worked on so far :) I hope to continue expanding it!
+# RNN for Generating Music
+This project uses a Recurrent Neural Network (RNN) made with Python, TensorFlow, and data visualization libraries to generate music. The model is trained on a dataset of MIDI files, which it parses and analyzes each note of. Each note has unique values of pitch, step, and duration, which the model then attempts to predict. The goal of this project is to demonstrate how basic machine learning techniques can be applied to the creative process. 
 
-To run music_rnn.ipynb, I used Visual Studio Code. You'll likely have to download some of the libraries used, especially including pretty_midi and Pyfluidsynth. Please read "Music RNN Explained" 1 and 2, which explain what each chunk of code does.
+I used Python in Visual Studio Code to help me write this, in addition to a TensorFlow tutorial. You'll likely have to download some of the libraries used, especially including pretty_midi and Pyfluidsynth. Please read "Music RNN Explained" 1 and 2, which explain what each chunk of code does!
+
+## Table of Contents
+- [Dataset](#dataset)
+- [Dependencies](#dependencies)
+- [Explanation](#
+- [Project Structure](#project-structure)
+- [License](#license)
