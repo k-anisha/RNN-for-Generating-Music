@@ -7,8 +7,8 @@ I used Python in Visual Studio Code to help me write this, in addition to a Tens
 - [Dataset](dataset)
 - [Dependencies](dependencies)
 - Explanation
-    - [Part 1](Music-RNN-Explained-1.pdf)
-    - [Part 2](Music-RNN-Explained-2.pdf)
+    - [Part 1](docs/Music-RNN-Explained-1.pdf)
+    - [Part 2](docs/Music-RNN-Explained-2.pdf)
 - [Project Structure](project-structure)
 - [Output](output)
 - [License](LICENSE)
