@@ -8,7 +8,7 @@ I used Python in Visual Studio Code to help me write this, in addition to a Tens
 - [Dependencies](dependencies)
 - Explanation
     - [Part 1](https://github.com/k-anisha/RNN-for-Generating-Music/blob/main/Music%20RNN%20Explained%201.pdf)
-    - [Part 2]([docs/Music-RNN-Explained-2.pdf](https://github.com/k-anisha/RNN-for-Generating-Music/blob/main/Music%20RNN%20Explained%202.pdf))
+    - [Part 2](https://github.com/k-anisha/RNN-for-Generating-Music/blob/main/Music%20RNN%20Explained%202.pdf)
 - [Project Structure](music_rnn.ipynb)
 - [Output](output)
 - [License](LICENSE)
