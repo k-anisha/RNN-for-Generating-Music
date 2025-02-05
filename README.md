@@ -4,8 +4,11 @@ This project uses a Recurrent Neural Network (RNN) made with Python, TensorFlow,
 I used Python in Visual Studio Code to help me write this, in addition to a TensorFlow tutorial. You'll likely have to download some of the libraries used, especially including pretty_midi and Pyfluidsynth. Please read "Music RNN Explained" 1 and 2, which explain what each chunk of code does!
 
 ## Table of Contents
-- [Dataset](#dataset)
-- [Dependencies](#dependencies)
-- [Explanation](#https://github.com/k-anisha/projects/blob/main/Music%20RNN%20Explained%201.pdf)
-- [Project Structure](#project-structure)
+- [Dataset](dataset)
+- [Dependencies](dependencies)
+- [Explanation]
+    - [Part 1](Music-RNN-Explained-1.pdf)
+    - [Part 2](Music-RNN-Explained-2.pdf)
+- [Project Structure](project-structure)
+- [Output](output)
 - [License](LICENSE)
