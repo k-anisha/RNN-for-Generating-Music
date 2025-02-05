@@ -8,4 +8,4 @@ I used Python in Visual Studio Code to help me write this, in addition to a Tens
 - [Dependencies](#dependencies)
 - [Explanation](#
 - [Project Structure](#project-structure)
-- [License](#license)
+- [License](#LICENSE)
