@@ -1,0 +1,13 @@
+# to install the dependencies for this project, run:
+# pip install -r dependencies.txt
+
+python==3.12.5
+numpy
+pandas
+seaborn
+matplotlib
+fluidsynth
+pretty_midi
+IPython
+tensorflow
+  
